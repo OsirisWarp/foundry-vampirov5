@@ -1,7 +1,7 @@
 {
   "name": "vampirov5-public",
-  "title": "Vampiro V5",
-  "description": "<p>Sistema de <strong>Vampiro: La Mascarada V5</strong> (Quinta Edici&oacute;n) para <a href=\"https://gitlab.com/rolnl/sandbox-system-builder/\" target=\"_blank\" rel=\"noopener\">Sandbox</a> de <a href=\"https://www.youtube.com/c/RolNL/\" target=\"_blank\" rel=\"noopener\">Rol NL</a>.</p>\n<p>Creado por <a href=\"https://twitter.com/Musrha\" target=\"_blank\" rel=\"noopener\">Musrha</a>. Aseg&uacute;rate de mirar el&nbsp;<strong>L&eacute;eme</strong> en el Journal/Diario para saber c&oacute;mo funciona la ficha.</p>",
+  "title": "Vampire V5",
+  "description": "<p><strong>Vampire: The Masquerade V5</strong> for <a href=\"https://gitlab.com/rolnl/sandbox-system-builder/\" target=\"_blank\">Sandbox</a>.</p>\n<p>Created by <a href=\"https://twitter.com/Musrha\" target=\"_blank\">Musrha</a>. Be sure to check out the <strong>Readme </strong>in the Journal to find out how the tab works. </p>",
   "version": "1.5.0",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
@@ -23,7 +23,7 @@
   "background": "worlds/vampirov5-public/icons/v1.png",
   "system": "sandbox",
   "coreVersion": "0.6.6",
-  "systemVersion": "0.2.6",
+  "systemVersion": "0.3.2",
   "nextSession": "",
   "availability": 0,
   "unavailable": false,

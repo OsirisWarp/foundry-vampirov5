@@ -2,19 +2,12 @@
 
 <a href='https://ko-fi.com/musrha' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='¡Apóyame en Ko-Fi!' /></a>
  
-Ficha y sistema de **Vampiro: La Mascarada V5 (Quinta Edición)** usando [Sandbox](https://gitlab.com/rolnl/sandbox-system-builder/) de [Seregras](https://www.youtube.com/c/RolNL/).
+Sheet and system of **Vampire: The Masquerade V5 (Fifth Edition)** using [Sandbox](https://gitlab.com/rolnl/sandbox-system-builder/) from [Seregras](https://www.youtube.com/c/RolNL/).
 
-En el Journal/Diario encontrarás un **Léeme** donde encontrarás una pequeña guía de como utilizar correctamente la ficha, además de los créditos.
+In the Journal you will find a ** Read me ** where you will find a small guide on how to use the card correctly, in addition to the credits.
 
-Te recomiendo que lo instales con este enlace al [world.json](https://raw.githubusercontent.com/Musrha/foundry-vampirov5/master/world.json) desde **Game Worlds** y poniendo el enlace en *Manifest Url*.
+I recommend that you install it with this link to [world.json](https://raw.githubusercontent.com/Musrha/foundry-vampirov5/master/world.json) from **Game Worlds** and putting the link in *Manifest Url*.
 
-¡Espero que lo disfrutes! Puedes contactarme mediante [Twitter](https://twitter.com/Musrha) y Discord (**Musrha#8789**) para cualquier bug, sugerencia o lo que sea.
+I hope you enjoy it! You can contact me via [Twitter](https://twitter.com/Musrha) and Discord (** Musrha # 8789 **) for any bug, suggestion or whatever.
 
-# TODO
-- [X] Lanzamiento inicial.
-- [X] Diseño CSS.
-- [X] Ampliación de ciertos cItems
-- [X] Separar Méritos/Defectos de Sangre Débil
-- [ ] Plantilla de ficha para la Coterie
-- [ ] Diferenciar Daño Superficial de Daño Agravado.
-- Y mucho más según avance Sandbox :)
+Just making a fork to try and convert to English. 
